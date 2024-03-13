@@ -11,7 +11,7 @@ MangaVerse is an Android application designed to provide users with a seamless e
 - Local Database Integration
 - MVVM Architecture
 - Coroutines
-
+- Caching
 
 ## Screenshots
 
